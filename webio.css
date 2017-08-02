@@ -40,8 +40,9 @@ p {
 .col-12 {width: 100%;}
 
 .header {
+    text-align: left;
     background-color: #bec2be;
-    padding: 15px;
+    padding-left: 50px;
 }
 .menu ul {
     font-family: 'Open Sans', sans-serif;
