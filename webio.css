@@ -11,6 +11,11 @@ p {
     font-size: 20px;
 }
 
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+}
+
 * {
     box-sizing: border-box;
 }
