@@ -82,3 +82,11 @@ p {
 .menu li:hover {
     background-color: #0099cc;
 }
+
+#menu {
+  position: fixed;
+  left: 0;
+  top: 50%;
+  width: 8em;
+  margin-top: -2.5em;
+}
